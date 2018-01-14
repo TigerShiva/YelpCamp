@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    float: right;
+}
+
+.add-comment {
+    margin-bottom: 1rem;
+}
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
