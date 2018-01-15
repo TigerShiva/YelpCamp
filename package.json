@@ -1,14 +1,11 @@
 {
   "name": "yelpcamp",
   "version": "1.0.0",
-  "description": "",
+  "description": "YelpCamp",
   "main": "app.js",
-  "engines": {
-    "node": "6.11.2"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app/js"
+    "start": "node app.js"
   },
   "author": "Bryan Hall",
   "license": "ISC",
